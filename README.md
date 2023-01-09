@@ -13,11 +13,13 @@ NB: Para as imagens e icons, optei pelo formato SVG.
 Para este projeto, foi disponibilizado um design projeto feito no figma (aplicação para web design).
 
 
-Imagem do Projecto
-
-![img](https://user-images.githubusercontent.com/77936944/211275115-ac4a956f-5e3d-4eed-81d9-0a2635a6beb1.png)
-
 
 Veja o Deploy:
 
 https://robertojuniorn.github.io/Rocketseat-MediaPlayer-Challenge/
+
+
+Imagem do Projecto
+
+![img](https://user-images.githubusercontent.com/77936944/211275115-ac4a956f-5e3d-4eed-81d9-0a2635a6beb1.png)
+
