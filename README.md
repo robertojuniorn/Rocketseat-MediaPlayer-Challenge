@@ -10,7 +10,7 @@ Tecnologias:
 
 NB: Para as imagens e icons, optei pelo formato SVG.
 
-Para este projeto, foi disponibilizado um design projeto feito no figma (aplicação para web design).
+Para este projeto, foi disponibilizado um design do projeto feito no figma (aplicação para web design).
 
 
 
